@@ -19,4 +19,17 @@ SQL for Data Analyst using the pastgresSQL
 
 <br>
 <img src="./notes//01.png" alt="note_01">
-<br>
+<br><br>
+
+
+<p>A cláusula JOIN em SQL é usada para combinar registros de duas ou mais tabelas com base em uma condição relacionada entre elas. Existem vários tipos de JOIN, cada um com sua própria finalidade. Vamos explorar os diferentes tipos de JOIN e fornecer exemplos para cada um.
+</p>
+
+### Tipos de JOIN
+- INNER JOIN
+- LEFT JOIN (ou LEFT OUTER JOIN)
+- RIGHT JOIN (ou RIGHT OUTER JOIN)
+- FULL JOIN (ou FULL OUTER JOIN)
+- CROSS JOIN
+- SELF JOIN
+
